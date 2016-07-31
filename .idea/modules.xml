@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-schduler.iml" filepath="$PROJECT_DIR$/.idea/modules/test-schduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-schduler_main.iml" filepath="$PROJECT_DIR$/.idea/modules/test-schduler_main.iml" group="test-schduler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test-schduler_test.iml" filepath="$PROJECT_DIR$/.idea/modules/test-schduler_test.iml" group="test-schduler" />
+    </modules>
+  </component>
+</project>
